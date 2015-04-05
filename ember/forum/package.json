@@ -10,7 +10,7 @@
     "start": "ember server",
     "build": "ember build",
     "test": "ember test",
-    "preinstall": "sudo npm link ../common"
+    "preinstall": "npm link ../common"
   },
   "repository": "",
   "engines": {
